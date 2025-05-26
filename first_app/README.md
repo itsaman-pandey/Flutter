@@ -1,16 +1,29 @@
-# first_app
+# 🎲 Dice Roller App
 
-A new Flutter project.
+A simple and colorful **Flutter app** that rolls dice — built as my **first step into Flutter and Dart** development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 What It Shows
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter layout using `Container`, `Center`, and gradients
+- Custom reusable widget (`StyledText`)
+- Gradient background and clean text styling
+- Fully written in Dart with modern Flutter structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Learning Focus
+
+- Stateless widget structure
+- Widget composition and reuse
+- Linear gradients and alignment
+- Project organization in Flutter
+
+---
+
+## 📸 Preview
+
+![Dice Roller]()
+
+
