@@ -55,11 +55,11 @@ This folder contains apps and experiments as I learn and master **Flutter** and 
 ## 📁 Project Organization
 
 Each folder in this repo represents an individual project or topic, for example:
-coin_toss/
-├── main.dart
-├── coin_tosser.dart
-├── assets/
-└── README.md
+- coin_toss/
+- ├── main.dart
+- ├── coin_tosser.dart
+- ├── assets/
+- └── README.md
 
 ---
 
