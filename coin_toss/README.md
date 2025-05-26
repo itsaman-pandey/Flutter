@@ -4,26 +4,25 @@ A beautiful and animated Flutter app that simulates flipping a coin. This app fe
 
 - Smooth horizontal flip animation
 - Random Head or Tail result
-- Beautiful gradient background
-- Fully responsive and centered layout
+- Elegant UI with gradient and animations
 
 ---
 
-## 📱 Screenshots
+## 📱 Screenshot
 
-| Home Screen | Coin Flip |
-|-------------|-----------|
-| ![screenshot](assets/screens/ani.png) | ![screenshot](assets/screens/flip.png) |
+### 🏠 Home Screen
 
-> 📸 Replace these screenshots with real ones from your app in `assets/screens/`
+![Home Screen](https://github.com/itsaman-pandey/Flutter/blob/main/coin_toss/assets/Screenshot%202025-05-26%20235659.png?raw=true)
 
 ---
 
 ## 🚀 Features
 
-- ✨ Elegant UI with gradient and custom fonts
-- 🎬 Coin flips with horizontal 3D animation
-- 🎨 Beautiful responsive layout
-- ⚙️ Clean modular codebase (separate `CoinTosser` widget)
+- 🎬 Realistic horizontal coin flip animation
+- 🎨 Clean and colorful UI with gradient background
+- 🧠 Randomized results: Head or Tail
+- 📱 Fully responsive layout
 
 ---
+
+
