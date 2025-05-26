@@ -19,14 +19,14 @@ class MyApp extends StatelessWidget {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            // Text(
-            //   "Heads or Tails Let's Check",
-            //   style: TextStyle(
-            //     color: Colors.amberAccent,
-            //     fontSize: 25,
-            //     fontWeight: FontWeight.w700,
-            //   ),
-            // ),
+            Text(
+              "Heads or Tails Let's Check",
+              style: TextStyle(
+                color: const Color.fromARGB(255, 48, 38, 1),
+                fontSize: 25,
+                fontWeight: FontWeight.w700,
+              ),
+            ),
             Image.asset(
               "assets/images/ani.png",
               // height: double.infinity,
