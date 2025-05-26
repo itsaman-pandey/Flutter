@@ -24,6 +24,6 @@ A simple and colorful **Flutter app** that rolls dice — built as my **first st
 
 ## 📸 Preview
 
-![Dice Roller]()
+![Dice Roller](https://github.com/itsaman-pandey/Flutter/blob/main/first_app/assets/images/Screenshot%202025-05-27%20002544.png)
 
 
